@@ -11,7 +11,7 @@ A role-based campus complaint management platform where students submit maintena
 
 ## Live Demo
 
-After deploying, add your live URL here.
+ live URL: https://smart-campus-complai-4u6z.bolt.host/login
 
 ## Demo Credentials
 
@@ -37,8 +37,8 @@ cp .env.example .env
 ```
 
 Required variables:
-- `VITE_SUPABASE_URL` — your Supabase project URL
-- `VITE_SUPABASE_ANON_KEY` — your Supabase anon/public key
+- `https://vnjhhnvgoxdhzxakjyhn.supabase.co` — your Supabase project URL
+- `sb_publishable_AWgwYlBc7q3t9b0Lz-uYgQ_93krVs8u` — your Supabase public key
 
 ### Database Setup
 
